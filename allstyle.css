@@ -19,7 +19,7 @@
 }
 
 .Intro {
-  color: darkblue;
+  color: red;
   text-align: center;
   font-weight: 900;
   font-style: italic;
@@ -28,10 +28,10 @@
   font-family: cursive;
 }
 .My_def a:hover {
-  color: orange;
+  color: black;
 }
 .education li a:hover {
-  color: orange;
+  color: black;
 }
 table,
 tr,
